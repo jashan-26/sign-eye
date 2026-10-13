@@ -1,0 +1,26 @@
+# Python virtual environments & packages
+.venv/
+venv/
+env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Testing & Caches
+.pytest_cache/
+.coverage
+
+# Node.js & Next.js
+node_modules/
+.next/
+out/
+next-env.d.ts
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
